@@ -1,4 +1,4 @@
-### Hey, I'm João
+### Hey, I'm Joao
 
 ASIC digital design engineer at [Synopsys](https://www.synopsys.com/) in Lisbon.
 Previously researched reconfigurable accelerator architectures at [INESC-ID](https://www.inesc-id.pt/).
